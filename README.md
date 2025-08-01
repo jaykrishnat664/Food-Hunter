@@ -1,2 +1,3 @@
 
-![image alt](https://github.com/jaykrishnat664/Food-Hunter/tree/877196200d8f3c14d7083f2716f6ec4e5a359106/images)
+<img src="[./images/food.jpg](https://github.com/jaykrishnat664/Food-Hunter/tree/64cc243c6f4cd2291283c5d182eda40d4e703809/images)" />
+
